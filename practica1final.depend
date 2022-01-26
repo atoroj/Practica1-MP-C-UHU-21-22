@@ -1,0 +1,82 @@
+# depslib dependency file v1.0
+1638061534 source:c:\users\toni\desktop\practica1final\main.cpp
+	<cstdlib>
+	<iostream>
+	<iomanip>
+	"Fecha.h"
+	"Contrato.h"
+	"ContratoTP.h"
+	"ContratoMovil.h"
+	<cstdlib>
+	<iostream>
+	"Fecha.h"
+	"Cliente.h"
+	<cstdlib>
+	<iostream>
+	<iomanip>
+	"Fecha.h"
+	"Cliente.h"
+	"Contrato.h"
+	"ContratoTP.h"
+	"ContratoMovil.h"
+	"Empresa.h"
+
+1638017601 c:\users\toni\desktop\practica1final\include\fecha.h
+	<iostream>
+
+1638017475 c:\users\toni\desktop\practica1final\include\cliente.h
+	<ostream>
+	"Fecha.h"
+
+1638017497 c:\users\toni\desktop\practica1final\include\contrato.h
+	<iostream>
+	"Fecha.h"
+
+1638017559 c:\users\toni\desktop\practica1final\include\contratotp.h
+	<iostream>
+	"Fecha.h"
+	"Contrato.h"
+
+1638017523 c:\users\toni\desktop\practica1final\include\contratomovil.h
+	<iostream>
+	"Fecha.h"
+	"Contrato.h"
+
+1638017584 c:\users\toni\desktop\practica1final\include\empresa.h
+	"Cliente.h"
+	"Contrato.h"
+	"ContratoTP.h"
+	"ContratoMovil.h"
+
+1638017464 source:c:\users\toni\desktop\practica1final\src\cliente.cpp
+	<cstring>
+	<cstdio>
+	<string>
+	"Cliente.h"
+
+1638017485 source:c:\users\toni\desktop\practica1final\src\contrato.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"Contrato.h"
+
+1638017515 source:c:\users\toni\desktop\practica1final\src\contratomovil.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"Contrato.h"
+	"ContratoMovil.h"
+
+1638017537 source:c:\users\toni\desktop\practica1final\src\contratotp.cpp
+	"ContratoTP.h"
+
+1638126604 source:c:\users\toni\desktop\practica1final\src\empresa.cpp
+	<cstring>
+	"Empresa.h"
+
+1638017595 source:c:\users\toni\desktop\practica1final\src\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
